@@ -49,8 +49,7 @@ Inspired by self-learning goals and interview prep practice.
 
 ---
 
-**📍 Status**: Challenge Completed 🎉  
-**📅 Duration**: [Add your start & end date here]
+**📍 Status**: Challenge in progress 🎉  
 
 Feel free to fork, star, or use this challenge idea to start your own logical building journey!
 
